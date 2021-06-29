@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning azure devops
 - 💞️ I’m looking to better opportunity
 - 📫 Reach out mobile 
+- looking new job as azure devops engineer.
 
-<!---
-chetpallyravindra/chetpallyravindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
